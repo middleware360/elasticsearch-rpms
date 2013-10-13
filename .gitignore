@@ -1,1 +1,4 @@
 RPMS*
+SOURCES/*.tar.gz
+SRPMS*
+BUILD
